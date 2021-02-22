@@ -1,0 +1,35 @@
+[
+  {
+    "pogId": "1",
+    "supc": "abc",
+    "brand": "Xiaomi",
+    "description": "Mobile",
+    "size": "small",
+    "category": "Electronics",
+    "subcategory": "phone",
+    "price": "10000",
+    "quantity": "7",
+    "country": "India",
+    "sellercode": "08",
+    "creationtime": "Monday",
+    "stock": "10"
+
+  },
+
+  {
+    "pogId": "2",
+    "supc": "def",
+    "brand": "Apple",
+    "description": "Mobile",
+    "size": "Medium",
+    "category": "Electronics",
+    "subcategory": "phone",
+    "price": "80000",
+    "quantity": "4",
+    "country": "India",
+    "sellercode": "04",
+    "creationtime": "Sunday",
+    "stock": "10"
+
+  }
+]
